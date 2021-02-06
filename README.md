@@ -1,6 +1,6 @@
 
 # Inspiration
-Today patients need to maintain their follow up records in physical files. EPR - Electronic Patient Record system to be developed, where all the patient treatment history will be maintained in the centralised database (cloud) which can accessed by patients, any doctors, pharmacist, laboratories from anywhere with respective patient consern.
+Today patients need to maintain their follow up records in physical files. EPR - Electronic Patient Record system to be developed, where all the patient treatment history will be maintained in the centralised database (cloud) which can accessed by patients, any doctors, pharmacist, laboratories from anywhere with respective patient permission.
 
 It is too tedious for patients to maintain all the medical reports and if the individual is prone to such kind of disease which requires a regular health check up it becomes more difficult to handle a large amount of reports. And if the hard copy is misplaced by chance, patients are asked to again perform a test. Which involves spending of money twice for the same thing. And if any intermediate report is lost, the doctors cannot give accurate consultancy about the treatment.
 
