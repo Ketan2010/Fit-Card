@@ -28,6 +28,14 @@ All action performed by doctors will get notfied to respective patient via SMS o
 * Authentication
 * Report Encryption
 
+# Application
+* Reports , prescription and health related data on single click.
+* 24 x 7 access.
+* No need to carry reports physically.
+* Feasible for pharmacist, patients, doctors, laboratories.
+* Only authorized user can access.
+* Highly secured.
+
 ![home](https://github.com/Ketan2010/Fit-Card/blob/main/assets/img/fitme.jpeg?raw=true) <br>
 
 ## Technology Stack
